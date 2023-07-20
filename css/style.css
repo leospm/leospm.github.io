@@ -2593,10 +2593,10 @@ text-align: center;
 
 .loader {
 position: relative;
-width: 45px;
-height: 45px;
+width: 145px;
+height: 145px;
 left: 50%;
-top: 50%;
+top: 0%;
 margin-left: -22px;
 margin-top: 2px;
 -webkit-animation: rotate 1s infinite linear;
@@ -2604,7 +2604,7 @@ margin-top: 2px;
     -ms-animation: rotate 1s infinite linear;
      -o-animation: rotate 1s infinite linear;
         animation: rotate 1s infinite linear;
-border: 3px solid rgba(255, 255, 255, .15);
+border: 13px solid rgba(255, 255, 255, 0.849);
 -webkit-border-radius: 50%;
    -moz-border-radius: 50%;
     -ms-border-radius: 50%;
@@ -2614,8 +2614,8 @@ border: 3px solid rgba(255, 255, 255, .15);
 
 .loader span {
 position: absolute;
-width: 45px;
-height: 45px;
+width: 5px;
+height: 145px;
 top: -3px;
 left: -3px;
 border: 3px solid transparent;
