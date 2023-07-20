@@ -3466,7 +3466,7 @@ filter: alpha(opacity=20);
 .section-title-heading.section-title-heading-home {
 position: absolute;
 top: 3px;
-font-family: 'open sans', cursive;
+font-family: 'open sans', ;
 font-size: 80px;
 font-weight: 900;
 text-transform: uppercase;
@@ -3508,7 +3508,7 @@ color: #ff264a;
 .section-title-heading {
 position: absolute;
 top: 3px;
-font-family: 'open sans', cursive;
+font-family: 'open sans', ;
 font-size: 80px;
 font-weight: 900;
 text-transform: uppercase;
@@ -3538,7 +3538,7 @@ line-height: 1;
 }
 
 .section-heading {
-font-family: 'open sans', cursive;
+font-family: 'open sans', ;
 font-size: 55px;
 font-weight: 700;
 text-transform: uppercase;
@@ -4055,7 +4055,7 @@ filter: alpha(opacity=0);
 }
 
 .timeline .swiper-slide .timeline-title {
-font-family: 'open sans', cursive;
+font-family: 'open sans', ;
 font-size: 80px;
 line-height: 1;
 font-style: normal;
@@ -4510,7 +4510,7 @@ z-index: 1;
 .mistify__slide-title {
 position: absolute;
 top: 3px;
-font-family: 'open sans', cursive;
+font-family: 'open sans', ;
 font-size: 80px;
 font-weight: 900;
 text-transform: uppercase;
