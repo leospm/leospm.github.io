@@ -367,7 +367,7 @@ html {
 
 /* 3. layout */
 body {
-font-family: 'Poppins', sans-serif;
+font-family: 'open sans', sans-serif;
 font-size: 15px;
 line-height: 1.5;
 font-style: normal;
@@ -597,7 +597,7 @@ right: -102px;
 }
 
 .section-title-subheading.section-title-subheading-home {
-font-family: 'Poppins', sans-serif;
+font-family: 'open sans', sans-serif;
 font-size: 15px;
 font-style: normal;
 font-weight: 700;
@@ -622,7 +622,7 @@ text-shadow: 1px 1px 2px #111;
 }
 
 .section-title-subheading {
-font-family: 'Poppins', sans-serif;
+font-family: 'open sans', sans-serif;
 font-size: 15px;
 font-style: normal;
 font-weight: 700;
@@ -649,7 +649,7 @@ text-shadow: 1px 1px 2px #111;
 .section-title-heading.section-title-heading-home {
 position: absolute;
 top: 3px;
-font-family: 'Poppins', sans-serif;
+font-family: 'open sans', sans-serif;
 font-size: 120px;
 font-weight: 900;
 text-transform: uppercase;
@@ -674,7 +674,7 @@ line-height: 1;
 .section-title-heading {
 position: absolute;
 top: 3px;
-font-family: 'Poppins', sans-serif;
+font-family: 'open sans', sans-serif;
 font-size: 120px;
 font-weight: 900;
 text-transform: uppercase;
@@ -699,7 +699,7 @@ line-height: 1;
 
 /* 4.2. section heading */
 h2.section-subheading {
-font-family: 'Poppins', sans-serif;
+font-family: 'open sans', sans-serif;
 font-size: 13px;
 font-style: normal;
 font-weight: 600;
@@ -770,7 +770,7 @@ border-top: 2px solid #fff;
 }
 
 .section-heading {
-font-family: 'Poppins', sans-serif;
+font-family: 'open sans', sans-serif;
 font-size: 45px;
 font-weight: 700;
 text-transform: uppercase;
@@ -2256,7 +2256,7 @@ border-top: none;
 padding: 5px 5px;
 background: none;
 margin: 10px 0 10px 0;
-font-family: 'Poppins', sans-serif;
+font-family: 'open sans', sans-serif;
 font-size: 13px;
 line-height: 1.5;
 font-style: normal;
@@ -2281,7 +2281,7 @@ border-top: none;
 padding: 5px 5px;
 background: none;
 margin: 5px;
-font-family: 'Poppins', sans-serif;
+font-family: 'open sans', sans-serif;
 font-size: 13px;
 line-height: 1.5;
 font-style: normal;
@@ -2325,7 +2325,7 @@ border-color: rgba(255, 255, 255, .35);
 }
 
 .success {
-font-family: 'Poppins', sans-serif;
+font-family: 'open sans', sans-serif;
 font-size: 10px;
 font-style: normal;
 font-weight: 600;
@@ -3085,7 +3085,7 @@ right: -35px;
 
 /* 19. Magnific Popup v1.1.0 CUSTOM */
 .mfp-arrow-left:after {
-font-family: "Ionicons";
+font-family: "open sans";
 content: "\f124";
 font-size: 18px;
 color: #fff;
@@ -3093,7 +3093,7 @@ margin-top: 22px;
 }
 
 .mfp-arrow-right:after {
-font-family: "Ionicons";
+font-family: "open sans";
 content: "\f125";
 font-size: 18px;
 color: #fff;
@@ -3116,7 +3116,7 @@ border-left: none;
 }
 
 .mfp-title {
-font-family: 'Poppins', sans-serif;
+font-family: 'open sans', sans-serif;
 font-size: 13px;
 line-height: 1.5;
 font-style: normal;
@@ -3344,7 +3344,7 @@ z-index: 10;
 
 .description h3,
 .description h4 {
-font-family: 'Poppins', sans-serif;
+font-family: 'open sans', sans-serif;
 font-size: 15px;
 text-transform: uppercase;
 font-weight: 700;
@@ -3803,7 +3803,7 @@ margin: 0 0 0 -15px;
 }
 
 .facts-counter-number {
-font-family: 'Poppins', sans-serif;
+font-family: 'open sans', sans-serif;
 font-size: 25px;
 font-weight: 600;
 text-transform: uppercase;
@@ -4022,7 +4022,7 @@ z-index: 2;
 
 .timeline .swiper-slide .timeline-year {
 display: block;
-font-family: 'Poppins', sans-serif;
+font-family: 'open sans', sans-serif;
 font-size: 30px;
 line-height: 1;
 font-style: normal;
@@ -4170,7 +4170,7 @@ filter: alpha(opacity=100);
 }
 
 .timeline .swiper-pagination {
-font-family: 'Poppins', sans-serif;
+font-family: 'open sans', sans-serif;
 font-size: 15px;
 line-height: normal;
 font-style: italic;
